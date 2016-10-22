@@ -1,0 +1,14 @@
+{
+    "name": "KinctAds",
+    "description" : "Context Sensitive Advertising",
+    "private": true,
+  	"scripts": {
+    	"start": "node app.js"
+  	},
+    "dependencies": {
+        "kinect2": "*"
+    },
+    "engines" : {
+        "node" : "*"
+    }
+}
